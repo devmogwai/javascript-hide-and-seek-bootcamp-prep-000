@@ -9,5 +9,3 @@ return document.querySelector('#nested .target')
 function increaseRankBy(n) {
   
 }
-
-nestedTarget()
