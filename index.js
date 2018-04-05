@@ -7,5 +7,7 @@ return document.querySelector('#nested .target')
 }
 
 function increaseRankBy(n) {
-  var a = document.querySelector('.ranked-list') 
+  var a = document.querySelector('.ranked-list')
+  a = a + n
 }
+console.log(a)
